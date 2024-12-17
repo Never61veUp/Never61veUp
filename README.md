@@ -29,11 +29,6 @@ I am engaged in full-stack development. I write backend using .NET Core, and fro
 
 
 <br/>  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Never61veUp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br/>
-<br/>
 
 ![](https://komarev.com/ghpvc/?username=Never61veUp)
-  
-
 <br/>
